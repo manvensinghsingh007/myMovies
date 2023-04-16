@@ -1,0 +1,23 @@
+.fav-container{
+    max-width: 1000px;
+    margin: auto;
+    
+}
+
+.genre{
+    margin: 10px;
+    gap: 10px;    
+}
+
+.input-container{
+    display: flex;
+}
+
+.input-container > input{
+    width: 50%;
+    margin: 5px;
+}
+
+.table-data{
+    color:white;
+}

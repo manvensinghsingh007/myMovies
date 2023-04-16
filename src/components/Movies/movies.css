@@ -1,0 +1,25 @@
+.movies-container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.movie_list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+
+.goto{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.goto > input{
+    width: 50px;
+}
